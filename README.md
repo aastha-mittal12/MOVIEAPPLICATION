@@ -121,5 +121,5 @@ Before you begin, ensure you have met the following requirements:
 
 ## Contact
 
-If you have any questions or feedback, please contact [Your Name] at [your.email@example.com].
+If you have any questions or feedback, please contact [Aastha Mittal] at [iaasthamittal@gmail.com].
 Feel free to customize this template according to your specific application details and requirements.
