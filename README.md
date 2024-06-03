@@ -1,4 +1,3 @@
-# MOVIEAPPLICATION
 # Movie Library Web Application
 
 ## Installation
