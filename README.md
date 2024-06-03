@@ -15,6 +15,7 @@ git clone https:https://github.com/aastha-mittal12/MOVIEAPPLICATION.git
 
 ### 2. Install Backend dependencies
 cd backend
+
 npm install
 
 ### 3. Set up environment variables
@@ -22,7 +23,9 @@ npm install
 Create a .env file in the server directory and add the following environment variables:
 
 PORT= portno.
+
 dburl=your_mongodb_connection_string
+
 reacturl = reacturl
 
 ### 4. Start the server
@@ -33,15 +36,22 @@ npm start
 Open a new terminal window and navigate to the client directory:
 
 cd frontend
+
 npm install
+
  cd Components 
+ 
  mkdir services 
+ 
  cd services 
+ 
  touch helper.jsx 
  
  ### 6. Set up environment variables
 In your helper.jsx
-export const base_url = your backend url either localhost or  global 
+
+export const base_url = your backend url either localhost or  global
+
 export const omdbapi = 'https://www.omdbapi.com/?apikey=<YOUR_API_KEY>&'
 
 NOTE : To generate Api key :https://www.omdbapi.com/apikey.aspx
