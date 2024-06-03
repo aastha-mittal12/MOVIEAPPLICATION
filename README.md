@@ -13,6 +13,8 @@ cd movie-library
 
 git clone https://github.com/aastha-mittal12/MOVIEAPPLICATION.git
 
+cd MOVIEAPPLICATION
+
 ### 2. Install Backend dependencies
 cd backend
 
@@ -39,13 +41,15 @@ cd frontend
 
 npm install
 
+cd src
+
  cd Components 
  
  mkdir services 
  
  cd services 
  
- touch helper.jsx 
+create a new file inside services naming "helper.jsx" 
  
  ### 6. Set up environment variables
 In your helper.jsx
@@ -55,8 +59,9 @@ export const base_url = your backend url either localhost or  global
 export const omdbapi = 'https://www.omdbapi.com/?apikey=<YOUR_API_KEY>&'
 
 NOTE : To generate Api key :https://www.omdbapi.com/apikey.aspx
-### 7. Start the client
 
+### 7. Start the client
+come back to your frontend folder  using cd..
 npm run dev 
 
 ## Overview
