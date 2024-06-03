@@ -11,7 +11,7 @@ mkdir movie-library
 
 cd movie-library
 
-git clone https:https://github.com/aastha-mittal12/MOVIEAPPLICATION.git
+git clone https://github.com/aastha-mittal12/MOVIEAPPLICATION.git
 
 ### 2. Install Backend dependencies
 cd backend
