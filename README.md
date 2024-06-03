@@ -61,8 +61,19 @@ export const omdbapi = 'https://www.omdbapi.com/?apikey=<YOUR_API_KEY>&'
 NOTE : To generate Api key :https://www.omdbapi.com/apikey.aspx
 
 ### 7. Start the client
-come back to your frontend folder  using cd..
+come back to your frontend folder  using 
+
+cd..
+
 npm run dev 
+
+## Hosting
+
+This project is hosted on [Render & Netlify ]. You can access the live application and view the code using the links below:
+
+- [Live Application](https://silly-brigadeiros-44e92f.netlify.app)
+- [Source Code](https://github.com/aastha-mittal12/MOVIEAPPLICATION)
+
 
 ## Overview
 
@@ -83,8 +94,7 @@ Before you begin, ensure you have met the following requirements:
 - MongoDB installed and running
 - OMDB API key
 
-
-## Usage
+- ## Usage
 
 ### Register a New User
 
@@ -108,13 +118,6 @@ Before you begin, ensure you have met the following requirements:
 1. Create a new list by providing a list name and setting the visibility (public or private).
 2. Add movies to your list from the search results.
 3. View and manage your movie lists on the home screen.
-
-## Hosting
-
-This project is hosted on [Render & Netlify ]. You can access the live application and view the code using the links below:
-
-- [Live Application](https://silly-brigadeiros-44e92f.netlify.app)
-- [Source Code](https://github.com/aastha-mittal12/MOVIEAPPLICATION)
 
 ## Contact
 
