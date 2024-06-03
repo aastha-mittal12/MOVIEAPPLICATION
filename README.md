@@ -6,8 +6,11 @@ Follow these steps to set up and run the application on your local machine:
 ### 1. Clone the repository
 
 bash
+
 mkdir movie-library
+
 cd movie-library
+
 git clone https:https://github.com/aastha-mittal12/MOVIEAPPLICATION.git
 
 ### 2. Install Backend dependencies
